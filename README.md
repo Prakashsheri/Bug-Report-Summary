@@ -1,2 +1,19 @@
 # Bug-Report-Summary
 I find and report bugs in the UBAR project. I write simple and clear bug details to help the team fix issues quickly and improve the software.
+
+# UBAR Bug Tracker
+
+This project contains bug documentation for the UBAR system.
+
+## Contents
+
+- `UBAR_Bug_Tracker.xlsx`: An Excel sheet with daily bug entries, test results, and retesting updates.
+
+## Usage
+
+I update this Excel sheet daily to track new bugs, fixed bugs, and retesting status. This helps in organizing QA work and communicating with the development team.
+
+## Maintained By
+
+Pralad Sheri – Software Test Engineer
+
