@@ -15,5 +15,5 @@ I update this Excel sheet daily to track new bugs, fixed bugs, and retesting sta
 
 ## Maintained By
 
-Pralad Sheri – Software Test Engineer
+Prakash Sheri – Software Test Engineer
 
